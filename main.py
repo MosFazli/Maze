@@ -1,3 +1,11 @@
+""""
+Maze Program
+this program developed by Mostafa Fazli, Danial Bayati, Foad Ataei, Ali Toosi
+Excess Practice of Artificial Intelligence
+3 Jan 2022
+"""
+
+
 import math
 from os import remove
 import random
